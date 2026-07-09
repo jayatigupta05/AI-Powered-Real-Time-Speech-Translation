@@ -160,7 +160,7 @@ The application features a modern, Bento-grid style dashboard optimized for clar
 ### 2. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/Speech_to_speech_project.git
+git clone https://github.com/jayatigupta05/AI-Powered-Real-Time-Speech-Translation
 cd Speech_to_speech_project
 
 # Create virtual environment
